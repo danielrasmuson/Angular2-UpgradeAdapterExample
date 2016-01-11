@@ -1,0 +1,24 @@
+.elessar-rangebar{
+    background-color: transparent;
+    border-color: #B7C3CF;
+    border-style: solid;
+    border-width: 1px;
+}
+.elessar-range {
+    height: 100%;
+    background-color: transparent;
+    overflow: visible;
+}
+.elessar-barlabel {
+    text-align: center;
+    width: 100%;
+    display: block;
+    background-color: transparent;
+    color: #000000;
+    font-size: 12px;
+    min-width: 100px;
+    font-weight: bold;
+}
+.elessar-handle {
+    background-color: rgba(118, 105, 107, .5);
+}

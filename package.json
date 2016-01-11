@@ -1,0 +1,17 @@
+{
+  "name": "Angular2-UpgradeAdapterExample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "jquery": "^2.2.0",
+    "elessar": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Rasmuson <danielrasmuson@gmail.com> (http://danielrasmuson.com/)",
+  "license": "ISC"
+}
